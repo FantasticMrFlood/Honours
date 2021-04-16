@@ -1,0 +1,14 @@
+.com
+.ru
+.net
+.in
+.ir
+.au
+.de
+.dr
+.gov
+.co.uk
+.biz
+.ac.uk
+.edu
+.org
