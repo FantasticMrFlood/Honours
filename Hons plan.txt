@@ -1,0 +1,22 @@
+C:\Users\Aidan\OneDrive\Desktop\Hons
+
+ubuntu
+grep "From:" * | wc -l
+
+
+features
+
+1) is the from and reply to the same
+
+2) from or reply to length 
+
+3) if they're not the same AND long then sus 
+
+
+
+
+find in string (string comapre) can use case statement for this
+find first name
+find seconds name 
+seperately
+in the email address
